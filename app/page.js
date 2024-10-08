@@ -70,7 +70,7 @@ export default function Home() {
           <div className="bg-[url('../assets/spaceship.png')] filter drop-shadow-[0px_0px_0px_#00FFE6] sm:w-[200px] md:w-[230px] 2xl:w-[560px] sm:h-[200px] md:h-[230px] 2xl:h-[560px] bg-no-repeat bg-center rounded-full absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 opacity-60"></div>
           <div className="bg-[#00FFE6] filter blur-[20px] sm:w-[80px] 2xl:w-[150px] sm:h-[60px] 2xl:h-[150px] z-[-1] rounded-full absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"> </div>
           <Image className="absolute top-[570px] z-[-5] h-[390px] left-1/2 transform -translate-x-1/2" src={circle} width={961} height={961} alt="circle" />
-          <div className="absolute z-[-1] sm:bottom-[80px] 2xl:bottom-[160px] sm:left-[80px] md:left-[50px] md:left-[60px] 2xl:left-[-105px]">
+          <div className="absolute z-[-1] sm:bottom-[80px] 2xl:bottom-[160px] sm:left-[80px] md:left-[60px] 2xl:left-[-105px]">
             <Image src={title1} width={0} height={0} className="2xl:w-[701px] md:w-[350px] sm:w-[200px]" alt="title1" />
             <Image
               className="absolute sm:top-[60px] md:top-[100px] 2xl:top-[180px] 2xl:left-[270px] sm:left-[150px]"
